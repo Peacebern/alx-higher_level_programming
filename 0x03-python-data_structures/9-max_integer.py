@@ -8,4 +8,3 @@ def max_integer(my_list=[]):
         return max
     else:
         return None
-© 2022 GitHub, Inc.
