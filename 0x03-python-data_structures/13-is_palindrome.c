@@ -4,8 +4,9 @@
 /**
  * is_palindrome - a function in C that checks
  * if a singly linked list is a palindrome.
- *
  * @head: The head of the linked list
+ *
+ * Return: return 1, otherwise 0
  */
 int is_palindrome(listint_t **head)
 {
