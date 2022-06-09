@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 def roman_to_int(roman_string):
     result = 0
     if roman_string and type(roman_string) == str:
