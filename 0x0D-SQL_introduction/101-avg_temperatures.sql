@@ -1,4 +1,4 @@
--- script that displays the average temperature (Fahrenheit) by ci-- ty ordered by temperature (descending).
+-- script that displays the average temperature (Fahrenheit) by ci-- ty ordered -- by temperature (descending).
 
 SELECT `city`, AVG(`value`) AS 'avg_temp'
 FROM `temperature`
